@@ -1,5 +1,5 @@
 {
-    "name": "maartenstaa/laravel-41-route-caching",
+    "name": "juliusza/laravel-41-route-caching",
     "description": "This package allows you to cache your routes definitions, thereby speeding up each request.",
     "keywords": ["laravel", "route", "routes", "cache", "caching", "performance"],
     "require-dev": {
